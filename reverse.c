@@ -16,7 +16,5 @@ int main(){
         
     }
     printf("%d",reverse);
-    
-
     return 0;
 }
